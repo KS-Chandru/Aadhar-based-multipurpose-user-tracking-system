@@ -1,0 +1,41 @@
+﻿ .txt
+        {
+            width: 185px;
+            border: 2px solid rgb(173, 204, 204);
+            box-shadow: 0 0 27px rgb(204, 204, 204) inset;
+            transition: 500ms all ease;
+            padding: 3px 3px 3px 3px;
+        }
+      .btn {
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   outline: 1px;
+   color: #fff;
+   background-color: #99CCFF;
+   border: none;
+   border-radius: 10px;
+   box-shadow: 0 7px #CCCCCC;
+ }
+
+ .btn:hover {
+    background-color: #9999FF
+ }
+
+ .btn:active {
+    background-color: #9999FF;
+    box-shadow: 0 4px #666;
+    transform: translateY(5px);
+ }
+ 
+  .ddl
+ {     
+color:#00090a ;
+border:2px solid rgb(173, 204, 204);
+font-size: 14px;
+padding: 5px 5px;
+border-radius: 2px;
+background-color: solid rgb(173, 204, 204);
+font-weight: bold;
+            
+ }
